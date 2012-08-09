@@ -16,7 +16,7 @@ public class PrimeiraAula {
 		double resultado = 0.0;
 		
 		if (valores == null) {
-			resultado = Double.NaN;
+			resultado = Double.MAX_VALUE;
 		}
 		
 		return resultado;
